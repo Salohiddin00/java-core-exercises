@@ -1,6 +1,6 @@
-package begins;
+package switchcase;
 
-public class Begin2 {
+public class Case1 {
     public static void main(String[] args) {
 
     }
