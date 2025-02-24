@@ -2,7 +2,7 @@ package arrays;
 
 import java.util.Scanner;
 
-public class Array06 {
+public class Array006 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Massiv uzubligi:");
